@@ -46,6 +46,6 @@ input[type="password"] {
 }
 
 /* psudo-classes */
-.cadastro-form input:nth-of-type(2){
+.cadastro-form div:nth-of-type(2){
     background: #00f;
 }
